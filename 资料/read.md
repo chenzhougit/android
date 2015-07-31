@@ -1,55 +1,55 @@
-# Android
+ï»¿# Android
 
-## ¹úÄÚ   
+## å›½å†…   
 
 ### CSDN   
 
-[ÀÏÂŞµÄAndroidÖ®ÂÃ](http://blog.csdn.net/Luoshengyang/)   
-[¹ùÁØµÄ×¨À¸](http://blog.csdn.net/guolin_blog)   
-[ÈÎÓñ¸Õ](http://blog.csdn.net/singwhatiwanna)   
-[ÕÅĞËÒµµÄ²©¿Í](http://blog.csdn.net/xyz_lmn)   
+[è€ç½—çš„Androidä¹‹æ—…](http://blog.csdn.net/Luoshengyang/)   
+[éƒ­éœ–çš„ä¸“æ ](http://blog.csdn.net/guolin_blog)   
+[ä»»ç‰åˆš](http://blog.csdn.net/singwhatiwanna)   
+[å¼ å…´ä¸šçš„åšå®¢](http://blog.csdn.net/xyz_lmn)   
 [Hongyang](http://blog.csdn.net/lmj623565791)   
-[Android_TutorµÄ×¨À¸ - Îº×£ÁÖ](http://blog.csdn.net/android_tutor)   
+[Android_Tutorçš„ä¸“æ  - é­ç¥æ—](http://blog.csdn.net/android_tutor)   
 [Mobile Internet developer](http://blog.csdn.net/xiaanming)   
-[°ÁÂıµÄÉÏĞ£µÄ×¨À¸](http://blog.csdn.net/lilu_leo)   
+[å‚²æ…¢çš„ä¸Šæ ¡çš„ä¸“æ ](http://blog.csdn.net/lilu_leo)   
 [AigeStudio](http://blog.csdn.net/aigestudio)   
-[AndroidÊÖ»ú²¡¶¾·ÖÎö¼°ÑĞ¾¿](http://blog.csdn.net/androidsecurity)   
-[Mr.SimpleµÄ×¨À¸](http://blog.csdn.net/bboyfeiyu)    
-[InnostµÄ×¨À¸ - °¢À­ÉñÅ©  ](http://blog.csdn.net/innost)    
-[hellogvµÄ×¨À¸](http://blog.csdn.net/hellogv)
+[Androidæ‰‹æœºç—…æ¯’åˆ†æåŠç ”ç©¶](http://blog.csdn.net/androidsecurity)   
+[Mr.Simpleçš„ä¸“æ ](http://blog.csdn.net/bboyfeiyu)    
+[Innostçš„ä¸“æ  - é˜¿æ‹‰ç¥å†œ  ](http://blog.csdn.net/innost)    
+[hellogvçš„ä¸“æ ](http://blog.csdn.net/hellogv)
 
-###  ÆäËü²©¿ÍÆ½Ì¨   
+###  å…¶å®ƒåšå®¢å¹³å°   
 
-[Å©Ãñ²®²®](http://www.cnblogs.com/over140/)   
-[ÕÅÌÎOSC](http://my.oschina.net/kymjs/blog)     
+[å†œæ°‘ä¼¯ä¼¯](http://www.cnblogs.com/over140/)   
+[å¼ æ¶›OSC](http://my.oschina.net/kymjs/blog)     
 [wyouflf](http://my.oschina.net/u/1171837)
 
-### ¸öÈË²©¿Í   
+### ä¸ªäººåšå®¢   
 [Trinea](http://www.trinea.cn/)   
-[´úÂë¼Ò](http://blog.daimajia.com/)   
+[ä»£ç å®¶](http://blog.daimajia.com/)   
 [stormzhang](http://stormzhang.com/)   
 [imid](http://www.imid.me/)   
-[ºú¿­](http://hukai.me/)   
+[èƒ¡å‡¯](http://hukai.me/)   
 [Android Cool Posts](http://greenrobot.me/)   
-[Jlog @Android±Ê¼Ç](http://www.race604.com/)   
+[Jlog @Androidç¬”è®°](http://www.race604.com/)   
 [ChenQichao's Blog](http://chenqichao.me/)    
-[ÕÅÃ÷ÔÆµÄ²©¿Í](http://zmywly8866.github.io/)   
+[å¼ æ˜äº‘çš„åšå®¢](http://zmywly8866.github.io/)   
 [Baoyz's Blog](http://baoyz.com/)   
-[ÀÏÄ¬±Ê¼Ç](http://lmbj.net/)   
-[ÔÆÔÚÇ§·å](http://blog.chengyunfeng.com/)   
+[è€é»˜ç¬”è®°](http://lmbj.net/)   
+[äº‘åœ¨åƒå³°](http://blog.chengyunfeng.com/)   
 [Gracker](http://www.grackertalk.com/)
 [Android Performance](http://androidperformance.com/)   
-[Sam - ÂëÅ©Ã÷Ã÷É£](http://blog.isming.me/)   
+[Sam - ç å†œæ˜æ˜æ¡‘](http://blog.isming.me/)   
 [Liter's Blog](http://www.vmatianyu.cn/)   
 [Chiemy](http://chiemy.com/)   
 [StackVoid](http://stackvoid.com/)   
 [Adventures of kenai](http://blog.kenai.cc/)   
-[ÕÅÌÎ²©¿Í](http://blog.kymjs.com/)   
+[å¼ æ¶›åšå®¢](http://blog.kymjs.com/)   
 [lzy's blog](http://lzyblog.com/)   
-[ÓêËÉMOMO](http://www.xuanyusong.com/)   
-[DrakeetµÄ¸öÈË²©¿Í](http://drakeet.me/)   
+[é›¨æ¾MOMO](http://www.xuanyusong.com/)   
+[Drakeetçš„ä¸ªäººåšå®¢](http://drakeet.me/)   
 
-## ¹úÍâ   
+## å›½å¤–   
 
 [JAKE WHARTON](http://jakewharton.com/blog)   
 [Romain Guy](http://www.curious-creature.com/category/android/)   
@@ -61,7 +61,7 @@
 [HANNES DORFMANN](http://hannesdorfmann.com/)   
 [froger_mcs dev blog](http://frogermcs.github.io/)   
 [Dan Lew Codes](http://blog.danlew.net/)   
-[Sa¨²l Molinero](http://saulmm.github.io/)   
+[SaÃºl Molinero](http://saulmm.github.io/)   
 [Fernando Cejas](http://fernandocejas.com/)   
 [Little Robots](http://littlerobots.nl/blog/)   
 [DAVID GONZALEZ](http://www.malmstein.com/)   
@@ -79,7 +79,7 @@
 [Codedependent](http://graphics-geek.blogspot.com/)   
 [Daniel Lew's Coding Thoughts](http://daniel-codes.blogspot.com/)   
 [android ui patterns](http://www.androiduipatterns.com/)   
-[Micha? Z](http://mzgreen.github.io/)    
+[MichaÅ‚ Z](http://mzgreen.github.io/)    
 [ALESSANDRO CRUGNOLA](http://blog.sephiroth.it/)   
 [ONGOING DEV ](http://gmariotti.blogspot.it/)    
 [JPARDOGO](https://medium.com/@jpardogo)   
@@ -88,26 +88,26 @@
 
 # Java   
 
-[deepinmindµÄ¼¼Êõ²©¿Í](http://it.deepinmind.com/)   
-[»¨ÑùµÄÄê»ª](http://calvin1978.blogcn.com/)   
+[deepinmindçš„æŠ€æœ¯åšå®¢](http://it.deepinmind.com/)   
+[èŠ±æ ·çš„å¹´å](http://calvin1978.blogcn.com/)   
 
-# Ëã·¨   
-[½á¹¹Ö®·¨ Ëã·¨Ö®µÀ](http://blog.csdn.net/v_july_v)   
+# ç®—æ³•   
+[ç»“æ„ä¹‹æ³• ç®—æ³•ä¹‹é“](http://blog.csdn.net/v_july_v)   
 
-# ÆäËü   
+# å…¶å®ƒ   
 
-[Å£ÈË¼¼Êõ²©¿Í»ã×Ü](http://geniusblog.sinaapp.com/)   
+[ç‰›äººæŠ€æœ¯åšå®¢æ±‡æ€»](http://geniusblog.sinaapp.com/)   
 [Tencent AlloyTeam](http://alloyteam.github.io/)   
-[°¢ÀïÖĞ¼ä¼şÍÅ¶Ó²©¿Í](http://jm.taobao.org/)   
-[Ææ»¢360¼¼Êõ²©¿Í](http://blogs.360.cn/)   
-[°Ù¶ÈÒÆ¶¯ÓÃ»§ÌåÑé²¿](http://mux.baidu.com/?page_id=10)   
-[Ä¢¹½½Ö¼¼Êõ²©¿Í](http://mogu.io/)   
-[ÃÀÍÅ¼¼ÊõÍÅ¶Ó](http://tech.meituan.com/)   
-[ÈîÒ»·åµÄÍøÂçÈÕÖ¾](http://www.ruanyifeng.com/home.html)   
-[ÁÎÑ©·åµÄ¹Ù·½ÍøÕ¾](http://www.liaoxuefeng.com/)   
-[ÏĞË¼Â¼ - Feng](http://dbanotes.net/)   
-[¿á¿Ç](http://coolshell.cn/)   
-[ÔÂ¹â²©¿Í](http://www.williamlong.info/)   
+[é˜¿é‡Œä¸­é—´ä»¶å›¢é˜Ÿåšå®¢](http://jm.taobao.org/)   
+[å¥‡è™360æŠ€æœ¯åšå®¢](http://blogs.360.cn/)   
+[ç™¾åº¦ç§»åŠ¨ç”¨æˆ·ä½“éªŒéƒ¨](http://mux.baidu.com/?page_id=10)   
+[è˜‘è‡è¡—æŠ€æœ¯åšå®¢](http://mogu.io/)   
+[ç¾å›¢æŠ€æœ¯å›¢é˜Ÿ](http://tech.meituan.com/)   
+[é˜®ä¸€å³°çš„ç½‘ç»œæ—¥å¿—](http://www.ruanyifeng.com/home.html)   
+[å»–é›ªå³°çš„å®˜æ–¹ç½‘ç«™](http://www.liaoxuefeng.com/)   
+[é—²æ€å½• - Feng](http://dbanotes.net/)   
+[é…·å£³](http://coolshell.cn/)   
+[æœˆå…‰åšå®¢](http://www.williamlong.info/)   
 [Lucida](http://zh.lucida.me/)   
 [Engineering Blog - Facebook](https://code.facebook.com/posts/)   
 [The Corner - Square](https://corner.squareup.com/)   
